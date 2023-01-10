@@ -1,4 +1,4 @@
-# Hemanth Kumar Thanjavur_FrontEndLab_JavaScript
+# HemanthKumarThanjavur_FrontEndLab_JavaScript
 Front End Lab - JavaScript
 
 Problem Statement
